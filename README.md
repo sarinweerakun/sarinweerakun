@@ -1,5 +1,5 @@
 - 👋 "My name": "Sarin Weerakun"
-- 👀 I’m interested in Front-end, Data-Analysis and DevOps.
+- 👀 I’m interested in Full-stack and Back-end.
 - 🌱 I’m currently learning bachelor's degree in School of Information technology (SIT) at King Mongkut's University of Technology Thonburi (KMUTT).
 - 📫 How to reach me -> sarinkobfha@gmail.com || sarin.kobfha@mail.kmutt.ac.th
 
